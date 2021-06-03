@@ -1,0 +1,10 @@
+﻿  Building 'MiniWfp' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Callouts.cpp
+  DriverEntry.cpp
+  正在生成代码...
+  MiniWfp.vcxproj -> G:\驱动开发代码\MiniWfp\x64\Debug\MiniWfp.sys
+  Done Adding Additional Store
+  Successfully signed: G:\\MiniWfp\x64\Debug\MiniWfp.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
